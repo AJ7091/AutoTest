@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d0ed6f6-b4a3-4f03-81f1-a048a11c730e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/Chapter5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/ExpectedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/IgnorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/groupsOnClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/thread.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/Chapter/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="groupsOnClass1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groupsOnClass.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groupsOnClass.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paramter.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/paramter.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataProviderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/DataProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiThreadOnAnnotion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiThreadOnXml.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/thread.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeOutTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/TimeOutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicAnnotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/PayTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/LoginTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/IgnorTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/GroupsOnMethod.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/suite.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupOnClass2.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupOnClass3.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/ExpectedException.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/DependTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass1.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/groupsOnClass.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParamterTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/paramter.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParameterTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/DataProviderTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/thread.xml.fxml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/thread.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/TimeOutTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="968" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TimeOutTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DataProviderTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng.paramter" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.paramter.DataProviderTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter/src/main/resources/thread.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MultiThreadOnAnnotion" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.multiThread.MultiThreadOnAnnotion" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MultiThreadOnAnnotion.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.multiThread.MultiThreadOnAnnotion" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.suite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng.suite" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.suite.TimeOutTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.DataProviderTest (1)" />
+      <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+      <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
+      <item itemvalue="TestNG.J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" />
+      <item itemvalue="TestNG.TimeOutTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
+        <item itemvalue="TestNG.DataProviderTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0ed6f6-b4a3-4f03-81f1-a048a11c730e" name="Default" comment="" />
+      <created>1527603132767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527603132767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MultiThreadOnAnnotion - 2018.06.03 at 20h 55m 57s.xml">
+      <configuration name="MultiThreadOnAnnotion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 20h 56m 00s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 20h 59m 16s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 21h 02m 52s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 21h 03m 08s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 21h 11m 27s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 21h 14m 24s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="J__Testing_01-项目实践_Java_API_Automation_AutoTest_Chapter_src_main_resources_thread_xml - 2018.06.03 at 21h 15m 29s.xml">
+      <configuration name="J:/Testing/01-项目实践/Java_API_Automation/AutoTest/Chapter/src/main/resources/thread.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeOutTest - 2018.06.03 at 21h 18m 33s.xml">
+      <configuration name="TimeOutTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeOutTest - 2018.06.03 at 21h 20m 08s.xml">
+      <configuration name="TimeOutTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45479453" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Testing/01-BasicEnvironment/Java/jdk1.8.0/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/IgnorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/ExpectedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/DependTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/GroupsOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/groups/groupsOnClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groupsOnClass.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/paramter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/DataProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/thread.xml.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/thread.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/suite/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
